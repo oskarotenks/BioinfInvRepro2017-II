@@ -20,7 +20,7 @@ Verónica LIzbeth González VAldez: [avance 1](https://github.com/VeronicaGlez/P
 
 Tania López Palafox: [avance 1](https://github.com/tnpalafox/ProyectoFinalBioinf2017-II/blob/master/Avance1.md)
 
-Madisson Azucena Luna Bárcenas: [avance 1](https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/Avance%201.md)
+Madisson Azucena Luna Bárcenas: [avance 1](https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/Avance%201.md) , [avance 2](https://github.com/madisson-luna/Proyecto_Final-Bioinf2017-II/blob/master/Avance%202.md)
 
 Guillermo Huerta Ramos: [avance 1](https://github.com/ghuertaramos/ProyectoFinalBioinf2017-II/blob/master/Avance1%20.md)
 
@@ -29,7 +29,7 @@ Gissella Pineda Sanchez: [avance 1](https://github.com/GissellaPineda/Proyec_Fin
 
 Alejandro Rodríguez Agular: [avance 1](https://github.com/Alexscaleb/Tareas-Curso-BioinfInvRepro/blob/master/AVANCE1.md)
 
-Erandi Ramírez Aguirre: [avance 1](https://github.com/Amanecer1/BioinfInvRepro2017-II/blob/master/Avances_1_Erandi_Ramirez_Aguirre.md)
+Erandi Ramírez Aguirre: [avance 1](https://github.com/Amanecer1/Trabajo-Final_Bioinfo2017/blob/master/Avances_1_Erandi_Ramirez_Aguirre.md)
 
 Marisol De la Mora Curiel: [avance 1](https://github.com/MarisollDC/ProyectoFinalBioinf2017-II/blob/master/Avance1.md)
  
@@ -53,12 +53,26 @@ Nancy Y. Bárcenas De Los Santos [avance 1](https://github.com/NanBarcenas/Traba
 
 Benjamin Cristian Corona Comunidad [avance 1](https://github.com/bbeennjjaammiinn/proyecto_final_Bennjamin_Corona_Comunidad/blob/master/avance%201%20Proyecto%20bioinfo.mkd)
 
+Diego Jossué Jiménez Armenta [avance 1](https://github.com/JOSSJA/ProyectoJoss/blob/master/Primer%20Avance)
+
+
+Nelly Jazmín Pacheco Cruz [avance 1](https://github.com/n311pc/Tareas-Curso-BioinfInvRepro/blob/master/Avance1.md)
+
+Estefania Cano Sánchez [avance 1](https://github.com/ecanos/Proyecto-final)
+
+Lisandro Hernandez Anaya [Avance1](https://github.com/LisandroHernan/ProyectoFinalBioinf2017-II/blob/master/Avance1.md)
+
+José Rubén Montes Montiel [avance 1](https://github.com/JR-Montes/ProyectoFinalBioinf2017-II/blob/master/Avance_1.md)
+
+Arturo Morales Lopez: [avance 1](https://github.com/ArturoMoLo90/Proyecto_Final_Bioinf2017-II/blob/master/Avance_1.md)
+
+Israel Moreno Contreras [avance 1](https://github.com/Israelornis/ProyectoFinalBioinf2017-II/blob/master/Avance1.md)
 
 Oscar Villafranco Gutiérrez [avance 1](https://github.com/oskarotenks/TareasCursoBioinfInvRepro/blob/master/ProyectoFinalVillafranco.md)
 
-Contreras Luna Maria J. https://github.com/maryjomvz/ProyectoFinalBioinf2017-II-Maryjo-Contreras-Luna/issues/1
+Contreras Luna Maria J. [avance1](https://github.com/maryjomvz/ProyectoFinalBioinf2017-II-Majo-Contreras/blob/avance-1/AVANCE1.md)
 
-Mariana Pérez Rivera [avance 1] https://github.com/LENTEJITA/ProyectoFinalBioinf2017-II/blob/master/AVANCE%201.md
+Mariana Pérez Rivera [avance 1](https://github.com/LENTEJITA/ProyectoFinalBioinf2017-II/blob/master/AVANCE%201.md)
 
 Martín Yair Cabrera Garrido [avance 1](https://github.com/MartinCabreraG/ProyectoFinalBioinf2017-II/blob/master/avances1.md)
 
@@ -66,3 +80,4 @@ Adan Fernando Mar Silva  [avance 1](https://github.com/Ferxengutta/Proyecto-Fina
 
 Andrea Rebollo Hernández [avance 1](https://github.com/andyrh0402/Tareas-Curso-BioinfInvRepro/blob/master/Avance%201.md)
 
+Carmina Martinez Gonzalez:  [avance 1](https://github.com/MinaMaglez/Trabajo-Final-Bioinformatica/blob/master/Avance%201.md)
